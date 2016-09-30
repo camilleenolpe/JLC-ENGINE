@@ -1,0 +1,29 @@
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\bin\Debug\SEM.exe
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\bin\Debug\SEM.pdb
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\bin\Debug\MetroFramework.dll
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\obj\x86\Debug\SEM.Form1.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\obj\x86\Debug\SEM.Form2.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\obj\x86\Debug\SEM.Form3.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\obj\x86\Debug\SEM.Form4.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\obj\x86\Debug\SEM.Form5.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\obj\x86\Debug\SEM.Form6.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\obj\x86\Debug\SEM.Properties.Resources.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\obj\x86\Debug\SEM.csproj.GenerateResource.Cache
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\obj\x86\Debug\SEM.exe
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\SEM\SEM\obj\x86\Debug\SEM.pdb
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\obj\x86\Debug\SEM.exe
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\obj\x86\Debug\SEM.pdb
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\obj\x86\Debug\SEM.Form1.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\obj\x86\Debug\SEM.Form2.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\obj\x86\Debug\SEM.Form3.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\obj\x86\Debug\SEM.Form4.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\obj\x86\Debug\SEM.Form5.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\obj\x86\Debug\SEM.Form6.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\obj\x86\Debug\SEM.Properties.Resources.resources
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\obj\x86\Debug\SEM.csproj.GenerateResource.Cache
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\bin\Debug\SEM.exe
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\bin\Debug\SEM.pdb
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\bin\Debug\MetroFramework.dll
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Camille Enolpe\Documents\Visual Studio 2010\Projects\New folder\SEM\bin\Debug\Properties.Resources.Designer.cs.dll
